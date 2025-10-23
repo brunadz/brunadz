@@ -1,8 +1,8 @@
 ## 🎀 Oi, sou a Bruna! 
 
-💻 Estudante de Ciência da Computação | Apaixonada por tecnologia, desenvolvimento de software e aprendizado contínuo.
+👩‍💻 Estudante de Ciência da Computação | Apaixonada por tecnologia, desenvolvimento de software e aprendizado contínuo.
 
-![](https://github-readme-stats.vercel.app/api?username=brunadz&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=brunadz&theme=rose&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ## 🌷 Tech Stack
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
@@ -19,7 +19,6 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-  
 
 ## 🌸 Currently Listening
 [![BTS - RUN](https://img.shields.io/badge/Spotify-BTS%20RUN-1DB954?logo=spotify&style=for-the-badge)](https://www.youtube.com/watch?v=wKysONrSmew&list=RDwKysONrSmew&start_radio=1)
@@ -27,7 +26,5 @@
 > "Do not go gentle into that good night.” – Interstellar
 
 <!-- ![Dancing Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
-
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
