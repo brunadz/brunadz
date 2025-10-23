@@ -21,7 +21,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
   
 
-## 🔮 Currently Listening
+## 🌸 Currently Listening
 [![BTS - RUN](https://img.shields.io/badge/Spotify-BTS%20RUN-1DB954?logo=spotify&style=for-the-badge)](https://www.youtube.com/watch?v=wKysONrSmew&list=RDwKysONrSmew&start_radio=1)
 <br>
 > "Do not go gentle into that good night.” – Interstellar
