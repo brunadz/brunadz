@@ -2,7 +2,7 @@
 
 👩‍💻 Estudante de Ciência da Computação | Apaixonada por tecnologia, desenvolvimento de software e aprendizado contínuo.
 
-![](https://github-readme-stats.vercel.app/api?username=brunadz&theme=rose&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=brunadz&hide_border=false&include_all_commits=false&count_private=false&bg_color=F7C8DA&title_color=FF69B4&icon_color=FF69B4&text_color=000000)
 
 ## 🌷 Tech Stack
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
