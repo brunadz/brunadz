@@ -1,8 +1,7 @@
 ## 🎀 Oi, sou a Bruna! 
 
-### 👩‍💻 Estudante de Ciência da Computação 
-Apaixonada por tecnologia, desenvolvimento de software e aprendizado contínuo.
-![](https://github-readme-stats.vercel.app/api?username=brunadz&hide_border=false&include_all_commits=false&count_private=false&bg_color=F7C8DA&title_color=FF69B4&icon_color=FF69B4&text_color=000000)
+> 👩‍💻 Estudante de Ciência da Computação.
+<!-- Apaixonada por tecnologia, desenvolvimento de software e aprendizado contínuo. -->
 
 ## 🌷 Tech Stack
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
@@ -28,3 +27,5 @@ Apaixonada por tecnologia, desenvolvimento de software e aprendizado contínuo.
 <!-- ![Dancing Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![](https://github-readme-stats.vercel.app/api?username=brunadz&hide_border=false&include_all_commits=false&count_private=false&bg_color=F7C8DA&title_color=FF69B4&icon_color=FF69B4&text_color=000000)
