@@ -4,13 +4,13 @@
 <!-- Apaixonada por tecnologia, desenvolvimento de software e aprendizado contínuo. -->
 
 ## 🌷 Tech Stack
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 <!-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) -->
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 <!-- ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) -->
 <!-- ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) -->
 <!-- ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) -->
@@ -24,8 +24,4 @@
 <br>
 > "Do not go gentle into that good night.” – Interstellar
 
-<!-- ![Dancing Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-![](https://github-readme-stats.vercel.app/api?username=brunadz&hide_border=false&include_all_commits=false&count_private=false&bg_color=F7C8DA&title_color=FF69B4&icon_color=FF69B4&text_color=000000)
