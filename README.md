@@ -25,8 +25,6 @@ Atualmente estudo <strong>ReactJS</strong>, <strong>Node.js</strong>, <strong>Py
 
 ##
 
-
-
 ### Escutando atualmente ~
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=dhov3rib3l7ms1xsbssrsaos9&cover_image=true&theme=spotify-embed&show_offline=true&background_color=ffb6c1&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=dhov3rib3l7ms1xsbssrsaos9&redirect=true)
