@@ -1,4 +1,4 @@
-## 🌺 Bruna Azevedo 
+## 🌺 Bruna Damasceno de Azevedo 
 
 <img src="https://img.shields.io/badge/Desenvolvedora%20Full%20Stack-FFB6C1?style=for-the-badge" height="25"/>
 
