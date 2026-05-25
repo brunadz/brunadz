@@ -1,13 +1,13 @@
 ## Oi, eu sou a Bruna! 🌺
 
-<img src="https://img.shields.io/badge/Desenvolvedora%20Full%20Stack-000?style=for-the-badge" height="25"/>
+<img src="https://img.shields.io/badge/Estudante%20de%20Ciência%20da%20Computação-000?style=for-the-badge" height="25"/>
 
 <p align="left">
-Desenvolvedora em formação, com base técnica construída no <strong>Colégio COTEMIG</strong> e atualmente cursando <strong>Ciência da Computação na Universidade FUMEC</strong>. Movida pela curiosidade e pelo desejo de criar soluções que façam a diferença por meio da tecnologia.
+Desenvolvedora em formação, com base técnica construída no Colégio COTEMIG e atualmente cursando o 3º período de Ciência da Computação na Universidade FUMEC. Movida pela curiosidade e pelo desejo de criar soluções que façam a diferença por meio da tecnologia.
 </p>
 
 <p align="left">
-Atualmente estudo <strong>ReactJS</strong>, <strong>Node.js</strong>, <strong>Python</strong> e <strong>Java</strong>, sempre buscando evoluir tecnicamente e acompanhar as novidades da área! 
+Atualmente aprofundo meus conhecimentos em ReactJS, Node.js, Python e Java, com foco em evolução técnica contínua e acompanhamento das tendências da área!
 
 ##
 
