@@ -1,14 +1,13 @@
-## 🌺 Bruna Damasceno de Azevedo 
+## Oi, eu sou a Bruna! 🌺
 
-<img src="https://img.shields.io/badge/Desenvolvedora%20Full%20Stack-FFB6C1?style=for-the-badge" height="25"/>
+<img src="https://img.shields.io/badge/Desenvolvedora%20Full%20Stack-000?style=for-the-badge" height="25"/>
 
 <p align="left">
 Desenvolvedora em formação, com base técnica construída no <strong>Colégio COTEMIG</strong> e atualmente cursando <strong>Ciência da Computação na Universidade FUMEC</strong>. Movida pela curiosidade e pelo desejo de criar soluções que façam a diferença por meio da tecnologia.
 </p>
 
 <p align="left">
-Atualmente estudo <strong>ReactJS</strong>, <strong>Node.js</strong>, <strong>Python</strong> e <strong>Java</strong>, sempre buscando evoluir tecnicamente e acompanhar as novidades da área! :-)
-</p>
+Atualmente estudo <strong>ReactJS</strong>, <strong>Node.js</strong>, <strong>Python</strong> e <strong>Java</strong>, sempre buscando evoluir tecnicamente e acompanhar as novidades da área! 
 
 ##
 
@@ -33,8 +32,8 @@ Atualmente estudo <strong>ReactJS</strong>, <strong>Node.js</strong>, <strong>Py
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30" height="30" title="Spring Boot"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="30" height="30" title="Bitbucket"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="30" height="30" title="Angular"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30" height="30" title="Next.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="30" height="30" title="Tailwind CSS"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="30" height="30" title="Redux"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactquery/reactquery-original.svg" width="30" height="30" title="React Query"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" height="30" title="React Query"/> -->
 
 ### Entre em contato ~
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunad-azevedo)
-[![Email](https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunadamasceno2002@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunad-azevedo)
+[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunadamasceno2002@gmail.com)
 
 <br>
 
