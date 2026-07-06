@@ -1,6 +1,6 @@
-## Oii, eu sou a Bruna! 🌌
+## oii, eu sou a bruna! 
 
-<img src="https://img.shields.io/badge/Estudante%20de%20Ciência%20da%20Computação-002147?style=for-the-badge" height="25"/>
+<img src="https://img.shields.io/badge/Estudante%20de%20Ciência%20da%20Computação-000?style=for-the-badge" height="25"/>
 
 <p align="left">
 Desenvolvedora em formação, com base técnica construída no Colégio COTEMIG e atualmente cursando o 3º período de Ciência da Computação na Universidade FUMEC. Movida pela curiosidade e pelo desejo de criar soluções que façam a diferença por meio da tecnologia.
@@ -13,7 +13,7 @@ Atualmente aprofundo meus conhecimentos em ReactJS, Node.js, Python e Java, com 
 
 <img align="right" height="250px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazQxanZrMGNkbmZodmQ5N3VnbzZoN294eXRjOThlaGwwejl3ZnVmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GC7C2Fi902BDG/giphy.gif"/>
 
-### Tecnologias em aprendizado!
+### tecnologias em aprendizado!
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" title="Python"/>
@@ -33,9 +33,9 @@ Atualmente aprofundo meus conhecimentos em ReactJS, Node.js, Python e Java, com 
 <!--
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30" height="30" title="Spring Boot"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="30" height="30" title="Bitbucket"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="30" height="30" title="Angular"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30" height="30" title="Next.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="30" height="30" title="Tailwind CSS"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="30" height="30" title="Redux"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactquery/reactquery-original.svg" width="30" height="30" title="React Query"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" height="30" title="React Query"/> -->
 
-### Entre em contato!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-002147?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunad-azevedo)
-[![Email](https://img.shields.io/badge/Email-002147?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunadamasceno2002@gmail.com)
+### entre em contato!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunad-azevedo)
+[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunadamasceno2002@gmail.com)
 
 
 
