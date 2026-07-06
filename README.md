@@ -11,7 +11,7 @@ Atualmente aprofundo meus conhecimentos em ReactJS, Node.js, Python e Java, com 
 
 ##
 
-<img align="right" height="250px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazQxanZrMGNkbmZodmQ5N3VnbzZoN294eXRjOThlaGwwejl3ZnVmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GC7C2Fi902BDG/giphy.gif"/>
+<img align="right" height="250px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9qeDhzbWFldWg5bDNiMXpzN3ZwZ3RrZTRlMHYzb3dyd2tka2Z4eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TrVla4Z2PYEkU/giphy.gif"/>
 
 ### tecnologias em aprendizado!
 
