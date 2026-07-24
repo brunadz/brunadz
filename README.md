@@ -28,7 +28,7 @@ Atualmente aprofundo meus conhecimentos em Java com foco em evolução técnica 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="30" title="SQL Server"/><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" title="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" title="Figma"/>
-  <img src="https://cdn.simpleicons.org/notion/ffffff" width="30" title="Notion"/>
+  <img src="https://cdn.simpleicons.org/notion/00000" width="30" title="Notion"/>
 </p>
 
 <!--
