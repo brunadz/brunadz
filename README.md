@@ -7,7 +7,7 @@ Desenvolvedora em formação, com base técnica construída no Colégio COTEMIG 
 </p>
 
 <p align="left">
-Atualmente aprofundo meus conhecimentos em Java com foco em evolução técnica contínua e acompanhamento das tendências da área!
+Atualmente aprofundo meus conhecimentos em Java, Spring Boot e Angular com foco em evolução técnica contínua e acompanhamento das tendências da área!
 
 ##
 
