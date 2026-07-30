@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/Estudante%20de%20Ciência%20da%20Computação-000?style=for-the-badge" height="25"/>
 
 <p align="left">
-Desenvolvedora em formação, com base técnica construída no Colégio COTEMIG e atualmente cursando o 3º período de Ciência da Computação na Universidade FUMEC. Movida pela curiosidade e pelo desejo de criar soluções que façam a diferença por meio da tecnologia.
+Desenvolvedora em formação, com base técnica construída no Colégio COTEMIG e atualmente cursando o 4º período de Ciência da Computação na Universidade FUMEC. Movida pela curiosidade e pelo desejo de criar soluções que façam a diferença por meio da tecnologia.
 </p>
 
 <p align="left">
