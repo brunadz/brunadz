@@ -13,7 +13,7 @@ Atualmente aprofundo meus conhecimentos em Java, Spring Boot e Angular com foco 
 
 <img align="right" height="250px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9qeDhzbWFldWg5bDNiMXpzN3ZwZ3RrZTRlMHYzb3dyd2tka2Z4eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TrVla4Z2PYEkU/giphy.gif"/>
 
-### tecnologias em aprendizado!
+### tecnologias em aprendizado~
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" title="Java"/>
@@ -35,9 +35,9 @@ Atualmente aprofundo meus conhecimentos em Java, Spring Boot e Angular com foco 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" title="Python"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30" height="30" title="Spring Boot"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="30" height="30" title="Bitbucket"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30" height="30" title="Next.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="30" height="30" title="Tailwind CSS"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="30" height="30" title="Redux"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactquery/reactquery-original.svg" width="30" height="30" title="React Query"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" height="30" title="React Query"/> -->
 
-### entre em contato!
+### entre em contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunad-azevedo)
-[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunadamasceno2002@gmail.com)
+[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunadazevedo33@gmail.com)
 
 
 
