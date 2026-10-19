@@ -1,3 +1,5 @@
+### ( ՞ ܸ. .ܸ՞ )
+
 <!--## bruna~
 
 <img src="https://img.shields.io/badge/Estudante%20de%20Ciência%20da%20Computação-000?style=for-the-badge" height="25"/>
