@@ -1,53 +1,6 @@
 ### ( ՞ ܸ. .ܸ՞ )
 
-<!--## bruna~
-
-<img src="https://img.shields.io/badge/Estudante%20de%20Ciência%20da%20Computação-000?style=for-the-badge" height="25"/>
-
-<p align="left">
-Desenvolvedora em formação, com base técnica construída no Colégio COTEMIG e atualmente cursando o 4º período de Ciência da Computação na Universidade FUMEC. Movida pela curiosidade e pelo desejo de criar soluções que façam a diferença por meio da tecnologia.
-</p>
-
-<p align="left">
-Atualmente aprofundo meus conhecimentos em Java, Spring Boot e Angular com foco em evolução técnica contínua e acompanhamento das tendências da área!
-
-##
-
-<img align="right" height="250px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9qeDhzbWFldWg5bDNiMXpzN3ZwZ3RrZTRlMHYzb3dyd2tka2Z4eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TrVla4Z2PYEkU/giphy.gif"/>
-
-### tecnologias em aprendizado~
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30" height="30" title="Spring Boot"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="30" height="30" title="Angular"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="30" title="SQL Server"/><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" title="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" title="Figma"/>
-  <img src="https://cdn.simpleicons.org/notion/00000" width="30" title="Notion"/>
-</p>
-
-<!--
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" title="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30" height="30" title="Spring Boot"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="30" height="30" title="Bitbucket"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30" height="30" title="Next.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="30" height="30" title="Tailwind CSS"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="30" height="30" title="Redux"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactquery/reactquery-original.svg" width="30" height="30" title="React Query"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" height="30" title="React Query"/> -->
-
-<!-- ### entre em contato~
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunad-azevedo)
-[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunadazevedo33@gmail.com) --> 
-
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
+<div align="center">
 ⠀⠀⠀⠀⠀⠀⢀⣤⡀⠀⢀⡤⢦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⣾⠈⣷⠀⣼⠁⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⢻⠐⢹⣆⡇⠀⣸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -60,4 +13,28 @@ Atualmente aprofundo meus conhecimentos em Java, Spring Boot e Angular com foco 
 ⠀⣇⠀⠰⠰⠺⠰⠀⠀⠐⢦⣷⡆⠀⠀⠈⠀⠀⠂⠀⣼⡇⠀⠀⠀⠀⢀⠀⣘⠛⠃⠀⡰⡤⠀⠀⠁⠒⠁⠀⢈⣧⠀⣀⢀⠀⠀⠀⠀⠀⠀⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⠁
 ⠀⢻⣄⡖⢦⢶⡄⠀⠀⠀⠘⣧⡇⠀⠀⠀⠀⠀⠀⢠⡟⢹⡀⠀⠀⠀⡃⠛⡩⠀⠀⠀⢙⡅⠀⠀⠀⢠⠴⡟⢾⡙⢾⡍⠃⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⠏⠀
 ⠀⠀⢙⡷⠈⡸⢣⠀⠀⠀⠀⠰⠞⠀⠀⠀⠀⠀⡴⡏⠀⠀⠳⣄⢰⢓⡶⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢧⡲⢠⡇⡏⠁⢴⠊⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⣯⠀⠀
-⠀⠀⠘⢦⠈⠁⡼⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠇⠀⠀⠀⠠⡏⠀⡤⢳⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠜⠁⠙⠲⣄⡈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡗⠃⠀⠀
+⠀⠀⠘⢦⠈⠁⡼⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠇⠀⠀⠀⠠⡏⠀⡤⢳⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠜⠁⠙⠲⣄⡈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡗⠃⠀
+
+</div>
+
+⠀
+
+##
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-000000?style=flat-square&logo=springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-000000?style=flat-square&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white)<br>
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-000000?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+
+</div>
