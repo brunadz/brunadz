@@ -1,4 +1,4 @@
-<img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/352232f0-4ac5-4a79-a3cd-42601ca03c65" />### ૮ ˶ᵔ ᵕ ᵔ˶ ა
+### ૮ ˶ᵔ ᵕ ᵔ˶ ა
 
 <!--<div align="center">
 ⠀⠀⠀⠀⠀⠀⢀⣤⡀⠀⢀⡤⢦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
