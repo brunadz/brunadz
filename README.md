@@ -1,6 +1,6 @@
 ### ૮ ˶ᵔ ᵕ ᵔ˶ ა
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM21lM3VkMTExOGxpamQxMTc1bW5ycHdqeWdyd2plZTRnMnp1aTg4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WfaHuht7D5SSNfetTf/giphy.gif" width="300">
 </div>
 
@@ -8,6 +8,9 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTJwMng3cXpnYjNsdnMzdzVlcHEzNjRrbnJhZGJrMzk3N2V4azdibCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/um5h9GDAoXw2I84h8p/giphy.gif" width="300">
 </div> -->
 
+ <div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Q2c3htNzY1M3E3OGhweDc1Ynd6ZDdhN25ybnp1ZGZwYWNiNDhtZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fqhQGbP4TXvqztZ4cF/giphy.gif" width="300">
+</div> 
 
 ##
 
